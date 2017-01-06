@@ -46,6 +46,7 @@ int main(void)
        coin_count++;
        amount = amount - p;
    }
+    // Prints the coin count.
     printf("%d\n", coin_count);
     
     return 0;
